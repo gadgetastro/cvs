@@ -1,0 +1,14 @@
+.heading{
+    text-align: left;
+    color: aqua;
+    text-decoration:underline;
+    text-transform: uppercase;
+
+}
+.imgs{
+    width: 400px;
+    height: 400px;
+    margin:10%;
+    padding: 0%;
+
+}
